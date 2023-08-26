@@ -31,5 +31,13 @@ Interestingly, none of the states is managed by any react components. The state 
 
 ## Demo
 
-.
+<img width="959" alt="App Screenshot" src="https://github.com/laxmanmandal1234/Redux-Toolkit-App/assets/84460666/50ead9d9-03b7-4579-81e7-cf60a0b985f3">
+
+![React Toolkit App - Demo](https://github.com/laxmanmandal1234/Redux-Toolkit-App/assets/84460666/38e158af-3ea4-4113-8606-2aa9127defff)
+
+
+## Resources
+
+ - [How to Use Redux and Redux Toolkit – Tutorial for Beginners](https://www.freecodecamp.org/news/redux-and-redux-toolkit-for-beginners/)
+ - [Youtube: ReactJs - Learn ReactJs, Practically](https://www.youtube.com/playlist?list=PLIJrr73KDmRyrDnDFy-hHvQ24rRjz6e_J)
 
