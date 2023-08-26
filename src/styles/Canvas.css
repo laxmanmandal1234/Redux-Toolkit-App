@@ -1,0 +1,64 @@
+.component{
+  margin: 40px;
+  align-items: center;
+  justify-content: center;
+}
+
+.color-container{
+    width: 300px;
+    height: 250px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #6F61C0;
+    border-radius: 5px;
+}
+.color-container > p {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.color-button-container > button {
+  padding: 10px;
+    font-size: 20px;
+    border-style: none;
+    color: #272829;
+    padding-bottom: 4px;
+    cursor: pointer;
+    border-radius: 2px;
+    margin: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.blue{
+  background-color: #6F61C0;
+}
+
+.teal{
+  background-color: #22A699;
+}
+.mint{
+  background-color: #85E6C5;
+}
+.yellow{
+  background-color: #FFC436;
+}
+.blue:hover{
+  background-color: rgb(111, 97, 192, 0.5);
+  color: aliceblue;
+}
+
+.teal:hover{
+  background-color: rgb(34, 166, 153, 0.5);
+  color: aliceblue;
+}
+.mint:hover{
+  background-color: rgb(133, 230, 197, 0.5);
+  color: aliceblue;
+}
+.yellow:hover{
+  background-color: rgb(255, 196, 54, 0.5);
+  color: aliceblue;
+}
